@@ -1,1 +1,0 @@
-# Alex-Mchedlishvili.github.io
