@@ -1,13 +1,13 @@
 # site settings
 
 title: Alexander Mchedlishvili
-description: Polar Satellite Remote Sensing Ph.D. Candidate, Programmer, Science Communicator
+description: This page is meant to serve as a curriculum vitae
 taglong: Polar Satellite Remote Sensing Ph.D. Candidate, Programmer, Science Communicator
-tagshort: Ph.D. Candidate, Programmer, Science Communicator
-url: https://cvless.netlify.app
+tagshort: Ph.D. Candidate, Scientist, Programmer, Science Communicator
+url: https://alex-mchedlishvili.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: github.com/Alex-Mchedlishvili/Alex-Mchedlishvili.github.io
 
 # author settings
 
