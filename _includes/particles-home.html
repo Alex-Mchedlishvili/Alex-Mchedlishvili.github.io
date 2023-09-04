@@ -6,6 +6,12 @@
     <h1 class="particles-title">{{ site.title }}</h1>
     <h1 class="particles-subtitle">{{ site.taglong }}</h1>
     <div class="nowrap">
+      {% if site.social.mail %}
+      <a class="particles-icon" href="alexander.mchedlishvili.jobs@gmail.com">{% include svg/mail.svg %}</a>
+      {% endif %}
+      {% if site.social.orcid %}
+      <a class="particles-icon" href="https://orcid.org/0000-0002-0584-147X">{% include svg/orcid.svg %}</a>
+      {% endif %}
       {% if site.social.linkedin %}
       <a class="particles-icon" href="https://www.linkedin.com/in/alexander-mchedlishvili-a2744211b/">{% include svg/linkedin.svg %}</a>
       {% endif %}
