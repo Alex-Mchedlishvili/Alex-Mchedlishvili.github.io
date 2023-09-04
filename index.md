@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Works
+# About
 
 ## Publication History
 Mchedlishvili, A., Spreen, G., Melsheimer, C., and Huntemann, M.: Weddell Sea polynya analysis using SMOS–SMAP apparent sea ice thickness retrieval, The Cryosphere, 16, 471–487, [https://doi.org/10.5194/tc-16-471-2022](https://doi.org/10.5194/tc-16-471-2022), 2022.
