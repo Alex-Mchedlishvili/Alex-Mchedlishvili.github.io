@@ -6,6 +6,8 @@ title: Home
 # About
 
 ## Publication History
+Mchedlishvili, A., Lüpkes, C., Petty, A., Tsamados, M., and Spreen, G.: New estimates of pan-Arctic sea ice–atmosphere neutral drag coefficients from ICESat-2 elevation data, The Cryosphere, 17, 4103–4131, [https://doi.org/10.5194/tc-17-4103-2023](https://doi.org/10.5194/tc-17-4103-2023), 2023. 
+
 Mchedlishvili, A., Spreen, G., Melsheimer, C., and Huntemann, M.: Weddell Sea polynya analysis using SMOS–SMAP apparent sea ice thickness retrieval, The Cryosphere, 16, 471–487, [https://doi.org/10.5194/tc-16-471-2022](https://doi.org/10.5194/tc-16-471-2022), 2022.
 
 ---
@@ -20,4 +22,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
 
-{% include archive.html %}
+{% include contact.html %}
